@@ -1,0 +1,152 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Kam Yi Sheng
+    tagline: Software Developer
+    avatar: KamYiSheng.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links    email: kamyisheng94@gmail.com
+    phone: 014 221 0196
+    citizenship:
+    website:  #do not add http://
+    linkedin: KamYiSheng
+    xing: 
+    github: ChaliceKam
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
+
+    languages:
+      - idiom: Mandarin
+        level: Native
+
+      - idiom: English
+        level: Native
+
+      - idiom: Malay
+        level: Native
+
+      - idiom: Cantonese
+        level: Speak Only
+
+      - idiom: Japanese
+        level: Speak Only  
+
+    interests:
+      - item: Play Card Game 
+        link:
+ 
+career-profile:
+    title: Objectives
+    summary: |
+      I wish to improve my programming skill in different area. 
+      Research and improving my skill level to bring my best effort for the system development. 
+      Previous project mostly develops on form base application. 
+      For now, build a mobile app will be my new concern.  
+education:
+    - degree: Bachelor’s in Information Technology (Hons), Software Systems Development (Degree)
+      university: Tunku Abdul Rahman University College
+      time: CGPA (3.5066) 
+    - degree: Diploma in Computer Science and Management Mathematic (Diploma)
+      university: Tunku Abdul Rahman University College
+      time: CGPA (3.3305)  
+experiences:
+    - role: C# Software Developer 
+      time: May 2016 - Jan 2020
+      company: Borderpass Travel Sdn Bhd 
+      details: |
+        Job Scope
+        - Develop a software to building a kiosk and automate gate system for biometric enrollment and verification
+        - Problem solving on system issue to meet Malaysia immigration requirement 
+        - Maintain automate gate system at KLIA2, after complete Final Acceptance Test with immigration
+ 
+        Integrate device and service between 
+          - Passport Chip Reading
+          - Finger wave enrollment and verification (10 Fingers)
+          - 2D and 3D Facial Recognition 
+          - Gate
+
+        Software Tools
+        - Visual Studio 2015 (WPF), MSSQL, OpenGL
+
+        Hardware Tools
+        - Main component is Passport Reader, Finger Wave Reader, Intel Camera, Automate Gate, Arduino, Infrared Sensor
+        - Research component is Brickstream, QR Code Scanner, Wireless RFID Reader, Motion Sensor
+
+        Languages
+        - C#, C++   
+
+        Reference
+        - https://www.youtube.com/watch?v=3f1UF6lvKgs
+
+    - role: Software Engineer
+      time: Feb 2020 - Present
+      company: KLCV Sdn Bhd (https://www.dtpnet.jp)
+      details: | 
+        Job Scope  
+        - Customize the software Creative Vision
+        - Customize the software Loyal Creative Vision 
+
+        Tools
+        - Biz Browser V, Biz Browser DT, Oracle DB, Visual Studio 2008 
+
+        Start April 2022
+        - Start new project for mobile application (Booking System)
+        - Application to allow user booking for visit reservation on shop
+        - Design mobile application using flutter with Dart language 
+
+projects:
+    title: Projects
+    intro: > 
+    assignments:
+      - title: Borderpass Automate Gate System
+        link: "https://www.youtube.com/watch?v=3f1UF6lvKgs" 
+        tagline: "Gate system to allow bussiness traveller pass airport immigration in seconds"
+
+      - title: Biz Browser V 
+        link: "#"
+        tagline: "Modify form and function, depends on customer request"
+
+      - title: Biz Browser DT
+        link: "#"
+        tagline: "Upgrading whole Biz Browser V project source code into DT version. In between, adding new features and graph"
+
+      - title: DTP 来店予約App (Current)
+        link: "#"
+        tagline: "A mobile app service for booking system" 
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Biz Browser
+        level: 90% 
+
+      - name: Oracle
+        level: 60%
+
+      - name: C#
+        level: 70%
+
+      - name: MSSQL
+        level: 60%
+ 
+      - name: Javascript 
+        level: 40%
+
+      - name: Java
+        level: 40%
+
+      - name: Dart
+        level: 20%
+footer: > 
