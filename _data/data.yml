@@ -68,15 +68,17 @@ experiences:
       details: | 
         Job Scope  
         - Customize the software Creative Vision
-        - Customize the software Loyal Creative Vision 
+        - Customize the software Loyal Creative Vision  
+        - Form based application adjustment by using Biz Designer DT
 
         Tools
         - Biz Browser V, Biz Browser DT, Oracle DB, Visual Studio 2008 
 
-        April 2022 (New Project - In Progress) 
-        - Create new mobile application for Booking System
-        - Application to allow user booking for visit reservation on shop
-        - Design mobile application using React Native with Javascript
+        Mobile Application (April 2022 - In Progress)   
+        - Create new mobile application for Booking System 
+        - Design mobile application using Expo SDK with React Native (Javascript)
+        - Include integrating with Firebase (Android) and Apple Push Notification Service (iOS)
+        - Mobile platform in Android and iOS  
 
     - role: C# Software Developer 
       time: May 2016 - Jan 2020
@@ -131,19 +133,16 @@ skills:
     toolset:
       - name: Biz Browser
         level: 90% 
+       
+      - name: React Native
+        level: 70%
 
       - name: Oracle DB
         level: 60%
 
       - name: C#
-        level: 70%
- 
-      - name: Javascript 
-        level: 40%
-
+        level: 60%
+   
       - name: Java
-        level: 40%
-
-      - name: React Native
-        level: 30%
+        level: 40% 
 footer: > 
