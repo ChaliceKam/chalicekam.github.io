@@ -142,8 +142,5 @@ skills:
         level: 60%
 
       - name: C#
-        level: 60%
-   
-      - name: Java
-        level: 40% 
+        level: 60% 
 footer: > 
