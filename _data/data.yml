@@ -73,14 +73,87 @@ experiences:
         - Form based application adjustment by using Biz Designer DT
 
         Tools
-        - Biz Browser V, Biz Browser DT, Oracle DB, Visual Studio 2008 
+        - Biz Browser V, Biz Browser DT, Oracle DB, Visual Studio 2008, 
+          Visual Studio 2022
 
-        Mobile Application (April 2022 - In Progress)   
-        - Create new mobile application for Booking System 
-        - Design mobile application using Expo SDK with React Native (Javascript)
-        - Include integrating with Firebase (Android) and Apple Push Notification Service (iOS)
-        - Mobile platform in Android and iOS  
+        Booking Mobile Application (April 2022 - June 2022)   
+        - Develop a booking mobile application for demo and find new customers
+        - Develop using Expo SDK with React Native
+        - Integrate Firebase (Android) and Apple Push Notification Service (iOS)
+        - Mobile platform in Android and iOS
+        
+        Staff attendance (July 2022)
+        - Develop a web application using MVC .NET Core 6
+        - To replace existing desktop application from card tapping to qr code scanning
+          for office internal use
 
+        Tablet POS System (August 2022 - December 2022, Feb 2022)
+        - Develop a tablet POS system using C# Xamarin, MVVM architecture 
+        - Allow multiple device from different company product communication 
+          with tablet pos system (eg.Seiko, mPOP) 
+        - Problem solving in device communication in iOS tablet and 
+          UI design with function response different between android and iOS        
+        - Devices integrate include printer, cash drawer and barcode scanner
+        - Mobile platform in Android and iOS
+       
+        EC Web Application (Jan 2023 - April 2023)
+        - Develop web application in .net framework 4.5
+        - Develop forms in our exiting BizDesiger Management sytem 
+          to maintan our product stock in EC Application
+        - Take part in developing of EC cart system  
+        
+        Membership app (May 2023 - September 2023)
+        - Develop a membership application for demo and find new customers
+        - Mobile app will develop in C# Xamarin, MVVM architecture 
+        - Research and develop a new mobile app 
+          include UI design, app function, testing and documentation
+        - Research and setup Azure account environment 
+          using Azure Notification Hub in Firebase and APNs 
+        - Design mobile app local database to store and retrieve data purpose for app use
+        
+        Tablet POS System (October 2023, December 2023)
+        - Upgrade existing pos system from Xamarin to MAUI, MVVM architecture 
+          as preparation for future
+        - Update include function changes in Maui and bug fixing 
+          but without device commication (Because device library haven't available)
+          
+        案件 Web Application (November 2023)
+        - Develop a web application using MVC .NET Core 6
+        - Development include UI design, app function and testing
+          for office internal use
+          
+        Membership Web Management (Jan 2024)
+        - Develop a web application using MVC .NET Core 8
+        - Purpose of this project was develop for maintain the mobile app
+          such as shop details, request push notification to app, control
+          app version and etc.          
+        - Take part in developing webpage to manage 
+          shop homepage, crash report and etc.
+        
+        Membership app (Feb 2024)
+        - Upgrade existing pos system from Xamarin to MAUI, MVVM architecture
+          because of Xamarin lost microsoft maintain in future 
+        
+        Sanko Bazaar Membership app (March 2024 - May 2024)
+        Gigot Membership app (March 2024)
+        MA*RS Membership app (May 2024 - June 2024)
+        - Develop a mobile application using MAUI, MVVM architecture
+          and refer from previous membership app development
+        - Customize app depends on customer request
+        - Development include UI design, app function and testing
+        - Mobile platform in Android and iOS
+         
+        Manintenance of Existing Membership app (March 2024 - July 2024)
+        - Maintain 3 existing release app depends on 
+          customer request or bug fixing
+        - Problem solving include app heavy loading, service 
+          update from azure, receive news issue and etc.
+        
+        Tablet POS System (July 2024)
+        - Upgrading existing pos system for multiple device integration
+          after receive Maui lastest library from Seiko
+        - Implement new idea in some app features to reduce heaviness 
+          in data loading
     - role: C# Software Developer 
       time: May 2016 - Jan 2020
       company: Borderpass Travel Sdn Bhd 
@@ -125,22 +198,34 @@ projects:
         link: "#"
         tagline: "Upgrading whole Biz Browser V project source code into DT version. In between, adding new features and graph"
 
-      - title: DTP 来店予約App (Current)
-        link: "#"
-        tagline: "A mobile app service for booking system" 
+      - title: CreativeVisionPOS Tablet App (Android & iOS)
+        link: "https://play.google.com/store/apps/details?id=jp.co.dtpnet.user160.lc2&hl=en"
+        tagline: "An inbound POS system that communicate with multiple devices" 
+
+      - title: gigot＆melange Mobile App (Android & iOS)
+        link: "https://play.google.com/store/apps/details?id=jp.co.dtpnet.user160.lc2&hl=en"
+        tagline: "A membership app develop for company name TORa" 
+        
+      - title: SANKO BAZAAR Mobile App (Android & iOS)
+        link: "https://play.google.com/store/apps/details?id=jp.co.dtpnet.user169.lc2&hl=en"
+        tagline: "A membership app develop for company name SANKO BAZAAR" 
+        
+      - title: MA＊RS Mobile App (Android & iOS)
+        link: "https://play.google.com/store/apps/details?id=jp.co.dtpnet.user15.lc2&hl=en_GB"
+        tagline: "A membership app develop for company name TORa"  
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Biz Browser
-        level: 90% 
+        level: 50% 
        
       - name: React Native
-        level: 70%
+        level: 40%
 
       - name: Oracle DB
         level: 60%
 
       - name: C#
-        level: 60% 
+        level: 70% 
 footer: > 
