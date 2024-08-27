@@ -51,8 +51,8 @@ sidebar:
 career-profile:
     title: Objectives
     summary: |
-      I wish to improve my programming skill in different area. 
-      Research and improving my skill level to bring my best effort for the system development. 
+      I eager to improve my programming skill in various area. 
+      Constantly due research and improve my skill to bring my best effort for system development. 
       From previous project, having experiences in form base application, device integrating and mobile app developing.
       For now, web based application might be my next concern.   
 education:
@@ -80,42 +80,43 @@ experiences:
         - Develop a booking mobile application for demo and find new customers
         - Develop using Expo SDK with React Native
         - Integrate Firebase (Android) and Apple Push Notification Service (iOS)
-        - Mobile platform in Android and iOS
+        - Mobile platform used are Android and iOS
         
         Staff attendance (July 2022)
         - Develop a web application using MVC .NET Core 6
-        - To replace existing desktop application from card tapping to qr code scanning
+        - To replace existing desktop application from card tapping to QR code scanning
           for office internal use
 
         Tablet POS System (August 2022 - December 2022, Feb 2022)
         - Develop a tablet POS system using C# Xamarin, MVVM architecture 
-        - Allow multiple device from different company product communication 
+        - Allow multiple device connection (from different company and product) communication 
           with tablet pos system (eg.Seiko, mPOP) 
-        - Problem solving in device communication in iOS tablet and 
-          UI design with function response different between android and iOS        
-        - Devices integrate include printer, cash drawer and barcode scanner
-        - Mobile platform in Android and iOS
+        - Experienced challenges in device communication on iOS tablets due to hot restart, impacting connectivity. 
+          Additionally, faced difficulties in ensuring consistent UI design and functionality across Android and iOS, 
+          leading to different user interfaces and responses despite using the same codebase       
+        - Integrate devices include printer, cash drawer and barcode scanner
+        - Mobile platform used are Android and iOS
        
         EC Web Application (Jan 2023 - April 2023)
-        - Develop web application in .net framework 4.5
+        - Develop web application in .NET framework 4.5
         - Develop forms in existing BizDesiger Management system 
-          to maintain product stock in EC Application
+          to maintain product inventory in EC Application
         - Take part in developing of EC cart system  
         
-        Membership app (May 2023 - September 2023)
+        Membership App (May 2023 - September 2023)
         - Develop a membership application for demo and find new customers
-        - Mobile app will develop in C# Xamarin, MVVM architecture 
+        - Mobile app was develop in C# Xamarin, MVVM architecture 
         - Research and develop a new mobile app 
           include UI design, app function, testing and documentation
         - Research and setup Azure account environment 
           using Azure Notification Hub in Firebase and APNs 
-        - Design mobile app local database to store and retrieve data purpose for app use
+        - Design mobile app local database to store and retrieve data for app use
         
         Tablet POS System (October 2023, December 2023)
         - Upgrade existing pos system from Xamarin to MAUI, MVVM architecture 
-          as preparation for future
+          as preparation for future update
         - Update include function changes in Maui and bug fixing 
-          but without device communication (Because device library haven't available)
+          but without device communication (Because device library has not available)
           
         Case Web Application (November 2023)
         - Develop a web application using MVC .NET Core 6
@@ -124,7 +125,7 @@ experiences:
           
         Membership Web Management (Jan 2024)
         - Develop a web application using MVC .NET Core 8
-        - Purpose of this project was develop for maintain the mobile app
+        - Purpose of this project was develop is to maintain the mobile app
           such as shop details, request push notification to app, control
           app version etc.          
         - Take part in developing webpage to manage 
@@ -132,34 +133,42 @@ experiences:
         
         Membership app (Feb 2024)
         - Upgrade existing pos system from Xamarin to MAUI, MVVM architecture
-          because of Xamarin lost microsoft maintain in future 
+          because due to Microsoft not longer support Xamarin in future 
         
         Sanko Bazaar Membership app (March 2024 - May 2024) & 
         Gigot Membership app (March 2024) & 
         MA*RS Membership app (May 2024 - June 2024)
         - Develop a mobile application using MAUI, MVVM architecture
-          and refer from previous membership app development
+          using reference from previous membership app development
         - Customize app depends on customer request
         - Development include UI design, app function and testing
-        - Mobile platform in Android and iOS
+        - Mobile platform used are Android and iOS
          
         Maintenance of Existing Membership app (March 2024 - July 2024)
-        - Maintain 3 existing release app depends on 
+        - Maintain 3 existing released app depends on 
           customer request or bug fixing
         - Problem solving include app heavy loading, service 
-          update from azure, receive news issues, etc.
+          update from azure, News receive issues, etc.
         
         Tablet POS System (July 2024)
-        - Upgrading existing pos system for multiple device integration
-          after receive Maui lastest library from Seiko
+        - Upgrade existing pos system for multiple device integration
+          after receiving Maui lastest library from Seiko
         - Implement new idea in some app features to reduce heaviness 
           in data loading
+          
+        Inventory Management App (August 2024 - Present)
+        - Develop a mobile app using Java, Android Studio Koala
+          for managing product inventory
+        - Currently doing research on how to develop using Java
+        - Development include use of Keyence product integration 
+          for barcode scanning
+        
     - role: C# Software Developer 
       time: May 2016 - Jan 2020
-      company: Borderpass Travel Sdn Bhd 
+      company: Borderpass Travel Sdn Bhd (https://borderpass.com/)
       details: |
         Job Scope
-        - Develop a software to building a kiosk and automate gate system for biometric enrollment and verification
+        - Develop a software to build a kiosk and automate gate system for biometric enrollment and verification
         - Problem solving on system issue to meet Malaysia immigration requirement 
         - Maintain automate gate system at KLIA2, after complete Final Acceptance Test with immigration
  
@@ -192,11 +201,11 @@ projects:
 
       - title: Biz Browser V 
         link: "#"
-        tagline: "Modify form and function, depends on customer request"
+        tagline: "Modify form and function for inventory management system depends on customer request"
 
       - title: Biz Browser DT
         link: "#"
-        tagline: "Upgrading whole Biz Browser V project source code into DT version. In between, adding new features and graph"
+        tagline: "Upgrading whole inventory management system from BizBrowserV. In between, adding new features and graph"
 
       - title: CreativeVisionPOS Tablet App (Android & iOS)
         link: "https://play.google.com/store/apps/details?id=jp.co.dtpnet.cvpos&hl=en"
